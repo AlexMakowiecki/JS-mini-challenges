@@ -1,0 +1,15 @@
+
+main{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap: 16px;
+}
+
+iframe{
+  min-width: 400px;
+  max-width: 500px;
+  aspect-ratio: 1/1;
+  overflow:auto;
+  border: 2px solid black;
+}
