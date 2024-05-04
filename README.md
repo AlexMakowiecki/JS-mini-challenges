@@ -1,16 +1,17 @@
 # JS Mini projects
 ## Details
-Mini-challenges, part of the end of the Module 5, and each one covers a single topic
+Mini-challenges, part of the end of Module 5, and each one covers a single topic
 
-- **Challenge 1:** destructuing to manage object properties more easily
+- **Challenge 1:** destructuring to manage object properties more easily
 - **Challenge 2 & 3:** array.map() to create arrays using data of other, and array.join() to convert an array to string
 - **Challenge 4:** array.reduce() to reduce an array to a single value using the data inside the array
 - a **Superchallenge** to practice the topics above 
-- **Challenge 5:** rest parameter to put a unknown quantity of arguments into an array
+- **Challenge 5:** rest parameter to put an unknown quantity of arguments into an array
 - **Challenge 6:** spread syntax to use all of the items of an array, but without being inside that array
 - **Challenge 7 & 8:** OR shortcircuit, to assign a second value in case the first doesn't exist; AND shortcircuit to make a shorter if logic
 - **Challenge 9 & 10:** the constructor syntax to create the outline of an object, making it possible to create the same type of object multiple times
 
+I also created a website that showcases all of the challenges on one single page, using Iframes
 
 ## About Scrimba!
 
